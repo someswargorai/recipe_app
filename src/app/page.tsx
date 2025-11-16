@@ -19,7 +19,7 @@ export default function Home() {
           </span>
 
           <h1 className="text-5xl md:text-6xl font-bold leading-tight">
-            World’s Most Powerful Recipes.
+            World’s Most Powerful Recipessss in.
             <br /> One App.
           </h1>
 
