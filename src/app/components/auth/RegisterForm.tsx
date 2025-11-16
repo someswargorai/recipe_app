@@ -34,10 +34,10 @@ export default function RegisterForm() {
       setLoad(true);
       const response = axios.post("http://localhost:5050/api/v1/recify/auth/sign-up", data);
       
-      if(response.data.success){
-        alert("Registration successful! Please log in.");
-        router.push("/auth/login");
-      }
+      // if(response.data.success){
+      //   alert("Registration successful! Please log in.");
+      //   router.push("/auth/login");
+      // }
     
     } catch (err) {
       console.log(err);

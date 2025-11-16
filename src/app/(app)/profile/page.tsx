@@ -11,7 +11,7 @@ export default function InstagramProfile() {
 
   const getProfileDetails= async()=>{
     const response= await Profile.getProfile();
-    setProfile(response.user);
+    // setProfile(response.user);
   }
 
 
