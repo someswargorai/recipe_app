@@ -20,7 +20,7 @@ export default function Home() {
 
           <h1 className="text-5xl md:text-6xl font-bold leading-tight">
             World’s Most Powerful Recipessss in.
-            <br /> One App.
+            <br /> One App. Built by Someswar
           </h1>
 
           <p className="text-gray-400 text-lg">
